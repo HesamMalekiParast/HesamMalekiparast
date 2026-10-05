@@ -4,10 +4,6 @@
 
   <h3>Python Backend Developer</h3>
 
-  <p>
-    Building reliable backend systems and exploring production-grade AI/LLM applications.
-  </p>
-
   <img src="assets/matrix-python.gif" alt="Matrix Python Backend Banner" width="100%">
 
 </div>
@@ -49,7 +45,6 @@ Python Backend → AI/LLM Engineering.
 **Async / Messaging**
 
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 
 **Infrastructure**
 
@@ -86,73 +81,11 @@ Python Backend → AI/LLM Engineering.
 
 ---
 
-## Currently Learning
-
-Progression toward AI backend engineering:
-
-Focus areas right now: grounding LLM output in real data (RAG), reliable function/tool calling,
-agent loop design (plan → act → observe), and measuring quality before shipping to production.
-
----
-
-## Featured Projects
-
-> Placeholders — replace `<repository-name>` with your real repositories. Keep 3–4 max.
-
-### 1. Placeholder — Django/DRF Service
-
-Short description: what the service does and what problem it solves.
-
-**Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker
-
-**Engineering:** REST design, query optimization, async tasks, pytest coverage
-
-**Link:** `HesamMalekiParast/<repository-name>`
-
-### 2. Placeholder — FastAPI Backend
-
-Short description: high-throughput API or microservice.
-
-**Stack:** FastAPI, PostgreSQL, Redis, Docker, OpenTelemetry
-
-**Engineering:** dependency injection, background tasks, distributed tracing with SigNoz
-
-**Link:** `HesamMalekiParast/<repository-name>`
-
-### 3. Placeholder — Async / Distributed System
-
-Short description: worker pipeline, messaging, or service-discovery setup.
-
-**Stack:** Celery, RabbitMQ, Redis, Consul, Docker
-
-**Engineering:** retries/idempotency, service registration, observability
-
-**Link:** `HesamMalekiParast/<repository-name>`
-
-### 4. Placeholder — AI/LLM Backend
-
-Short description: RAG service, tool-calling agent, or LLM-powered API.
-
-**Stack:** FastAPI, pgvector / embeddings store, LLM API
-
-**Engineering:** retrieval pipeline, structured outputs, evaluation harness
-
-**Link:** `HesamMalekiParast/<repository-name>`
-
----
-
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HesamMalekiParast&show_icons=true&theme=dark&hide_border=true&hide_title=true&rank_icon=github" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamMalekiParast&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 </div>
-
----
-
-## Contact
-
-- GitHub: `https://github.com/HesamMalekiParast`
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE`
 
 ---
