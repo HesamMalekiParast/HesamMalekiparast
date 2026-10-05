@@ -6,9 +6,7 @@
 
   <img src="assets/matrix-python.gif" alt="Matrix Python Backend Banner" width="100%">
 
-
 </div>
-
 
 ## About Me
 
