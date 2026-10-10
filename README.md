@@ -1,13 +1,3 @@
-<div align="center">
-
-  <h1>Hesam Malekiparast</h1>
-  <h3>Python Backend Developer</h3>
-
-
-  <img src="assets/matrix-python.gif" alt="Matrix Python Backend Banner" width="100%">
-
-</div>
-
 ## About Me
 
 
