@@ -11,7 +11,7 @@ and observability via **OpenTelemetry + SigNoz**.
 
 
 Recently, my focus has expanded toward the backend side of AI: LLM integrations,
-retrieval pipelines (RAG), structured outputs, tool calling, and agent workflows —
+retrieval pipelines (RAG), structured outputs, tool calling, and agent workflows
 built with the same emphasis on reliability, testing, and operability as any backend service.
 
 
